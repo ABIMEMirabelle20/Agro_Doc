@@ -273,15 +273,15 @@ L'objectif serait alors d'aller au-delà de la simple analyse d'image et de dév
 
 # 13. Technologies utilisées
 
-React → Interface utilisateur
+**React: Interface utilisateur
+       
+**API Python: Communication avec le modèle
+       
+**TensorFlow/Keras: Inférence Deep Learning
        ↓
-API Python → Communication avec le modèle
+**best_model.keras: Prédiction de la maladie
        ↓
-TensorFlow/Keras → Inférence Deep Learning
-       ↓
-best_model.keras → Prédiction de la maladie
-       ↓
-Résultat → Classe + confiance + recommandation
+**Résultat  Classe + confiance + recommandation
 ---
 
 # 14. Structure du projet
