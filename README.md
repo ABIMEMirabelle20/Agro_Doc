@@ -3,7 +3,7 @@
 **Application web intelligente pour la détection précoce des maladies des cultures à partir d'images**
 
 **Deep Learning IndabaX Bénin 2026 — Hackathon**
-**Équipe : ClimaLab**
+**Équipe : AgriTech Bénin**
 **Membres : AGBO Vvien, DJOSSOU M. Benoît, EGUE Richnel, Maissiri Fatime, ABIME Mirabelle**
 ---
 
@@ -16,6 +16,8 @@ Dans de nombreuses situations, l'agriculteur doit se baser sur l'observation vis
 Notre projet propose une **application web basée sur le Deep Learning et la vision par ordinateur**, capable d'analyser une image d'une plante et de fournir une première estimation de son état sanitaire.
 
 > **Une photo pour détecter plus tôt, une information pour décider plus rapidement.**
+
+**La présentation du projet : AgroDoc_Indabax_Bénin_20026.pptx**
 
 ---
 
