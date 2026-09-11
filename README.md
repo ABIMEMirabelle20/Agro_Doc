@@ -149,7 +149,7 @@ Résultat de l'analyse
 🌱 Culture : Tomate
 
 ⚠️ État détecté :
-Maladie : [Nom de la maladie]
+Maladie 
 
 📊 Confiance :
 92 %
@@ -273,14 +273,15 @@ L'objectif serait alors d'aller au-delà de la simple analyse d'image et de dév
 
 # 13. Technologies utilisées
 
-* **Frontend :** React
-* **Backend / API :** [À préciser]
-* **Deep Learning :** [Modèle utilisé]
-* **Python :** [Version]
-* **Computer Vision :** [Bibliothèque]
-* **Git & GitHub :** gestion du code et collaboration
-* **Dataset :** [Nom et source]
-
+React → Interface utilisateur
+       ↓
+API Python → Communication avec le modèle
+       ↓
+TensorFlow/Keras → Inférence Deep Learning
+       ↓
+best_model.keras → Prédiction de la maladie
+       ↓
+Résultat → Classe + confiance + recommandation
 ---
 
 # 14. Structure du projet
