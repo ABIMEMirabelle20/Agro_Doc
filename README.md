@@ -273,11 +273,11 @@ L'objectif serait alors d'aller au-delà de la simple analyse d'image et de dév
 
 # 13. Technologies utilisées
 
-*React: Interface utilisateur    
-*API Python: Communication avec le modèle   
-*Dataset: dataset_split.zip
-*TensorFlow/Keras: Inférence Deep Learning
-*best_model.keras: Prédiction de la maladie
+* React: Interface utilisateur    
+* API Python: Communication avec le modèle   
+* Dataset: dataset_split.zip
+* TensorFlow/Keras: Inférence Deep Learning
+* best_model.keras: Prédiction de la maladie
 
 ---
 
